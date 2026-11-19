@@ -1,10 +1,8 @@
-<img width="1014" height="960" alt="9f282fa173efc430ea29052d1f347859" src="https://github.com/user-attachments/assets/98acfb37-eea5-416c-9ae7-7c9710bb1142" />
-
 
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <img width="1014" height="960" alt="9f282fa173efc430ea29052d1f347859" src="https://github.com/user-attachments/assets/98acfb37-eea5-416c-9ae7-7c9710bb1142" />
+  <img width="500" height="500" alt="9f282fa173efc430ea29052d1f347859" src="https://github.com/user-attachments/assets/98acfb37-eea5-416c-9ae7-7c9710bb1142" />
 </p>
 
 <p align="center">
