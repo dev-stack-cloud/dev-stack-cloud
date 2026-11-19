@@ -1,9 +1,10 @@
+<img width="1014" height="960" alt="9f282fa173efc430ea29052d1f347859" src="https://github.com/user-attachments/assets/98acfb37-eea5-416c-9ae7-7c9710bb1142" />
 
 
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <img src="<img width="736" height="718" alt="e7b96795ba3de256636b6d311cb3bb4d" src="https://github.com/user-attachments/assets/310c0bc6-1305-4232-84ee-6041af12bb64" />" width="300">
+  <img width="1014" height="960" alt="9f282fa173efc430ea29052d1f347859" src="https://github.com/user-attachments/assets/98acfb37-eea5-416c-9ae7-7c9710bb1142" />
 </p>
 
 <p align="center">
