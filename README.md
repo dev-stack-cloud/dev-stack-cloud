@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/98acfb37-eea5-416c-9ae7-7c9710bb1142" width="220" alt="Profile photo">
 </p>
@@ -23,7 +24,7 @@
 
 **Games and tools**
 
-<img src="https://skillicons.dev/icons?i=godot,unity,git,github,linux,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=unreal,robloxstudio,unity,godot,blender,arduino,visualstudio,git,github,linux,docker,vscode" />
 
 ---
 
@@ -38,4 +39,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-stack-cloud&layout=compact&hide_border=true&theme=dark&bg_color=00000000">
     <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-stack-cloud&layout=compact&hide_border=true&bg_color=00000000">
   </picture>
+</p>
+
 </p>
